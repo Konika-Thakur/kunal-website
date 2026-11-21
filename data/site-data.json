@@ -1,0 +1,1387 @@
+{
+  "M": {
+    "wedding": [
+      {
+        "src": "/media/wedding/w02.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/wedding/w08.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/wedding/w09.jpg",
+        "w": 1049,
+        "h": 1312
+      },
+      {
+        "src": "/media/wedding/w11.jpg",
+        "w": 1200,
+        "h": 1500
+      },
+      {
+        "src": "/media/wedding/w13.jpg",
+        "w": 1800,
+        "h": 1013
+      },
+      {
+        "src": "/media/wedding/w14.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/wedding/w15.jpg",
+        "w": 1200,
+        "h": 1800
+      },
+      {
+        "src": "/media/wedding/w16.jpg",
+        "w": 1097,
+        "h": 1646
+      },
+      {
+        "src": "/media/wedding/w17.jpg",
+        "w": 788,
+        "h": 1181
+      },
+      {
+        "src": "/media/wedding/w18.jpg",
+        "w": 1200,
+        "h": 1800
+      },
+      {
+        "src": "/media/wedding/w19.jpg",
+        "w": 1200,
+        "h": 1800
+      },
+      {
+        "src": "/media/wedding/w21.jpg",
+        "w": 1200,
+        "h": 1800
+      },
+      {
+        "src": "/media/wedding/w22.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/wedding/w29.jpg",
+        "w": 1200,
+        "h": 1800
+      },
+      {
+        "src": "/media/wedding/w30.jpg",
+        "w": 1013,
+        "h": 1266
+      },
+      {
+        "src": "/media/wedding/w31.jpg",
+        "w": 1200,
+        "h": 1500
+      },
+      {
+        "src": "/media/wedding/w33.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/wedding/w35.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/wedding/w36.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/wedding/w39.jpg",
+        "w": 1177,
+        "h": 1471
+      },
+      {
+        "src": "/media/wedding/w40.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/wedding/w41.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/wedding/w42.jpg",
+        "w": 1197,
+        "h": 1797
+      },
+      {
+        "src": "/media/wedding/w44.jpg",
+        "w": 1200,
+        "h": 1800
+      },
+      {
+        "src": "/media/wedding/w48.jpg",
+        "w": 1200,
+        "h": 1500
+      },
+      {
+        "src": "/media/wedding/w50.jpg",
+        "w": 1177,
+        "h": 1471
+      },
+      {
+        "src": "/media/wedding/w52.jpg",
+        "w": 1680,
+        "h": 1344
+      },
+      {
+        "src": "/media/wedding/w54.jpg",
+        "w": 1280,
+        "h": 853
+      },
+      {
+        "src": "/media/wedding/w55.jpg",
+        "w": 1200,
+        "h": 1800
+      },
+      {
+        "src": "/media/wedding/w56.jpg",
+        "w": 1280,
+        "h": 1600
+      },
+      {
+        "src": "/media/wedding/w01.jpg",
+        "w": 1618,
+        "h": 1800
+      },
+      {
+        "src": "/media/wedding/w03.jpg",
+        "w": 1081,
+        "h": 1729
+      },
+      {
+        "src": "/media/wedding/w04.jpg",
+        "w": 1025,
+        "h": 1714
+      },
+      {
+        "src": "/media/wedding/w12.jpg",
+        "w": 1200,
+        "h": 1800
+      },
+      {
+        "src": "/media/wedding/w45.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/wedding/w34.jpg",
+        "w": 746,
+        "h": 1118
+      },
+      {
+        "src": "/media/wedding/w53.jpg",
+        "w": 853,
+        "h": 1280
+      },
+      {
+        "src": "/media/wedding/w60.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/wedding/w62.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/wedding/w25.jpg",
+        "w": 1200,
+        "h": 1800
+      },
+      {
+        "src": "/media/wedding/w10.jpg",
+        "w": 1025,
+        "h": 1281
+      }
+    ],
+    "property": {
+      "golden-lagoon": [
+        {
+          "src": "/media/property/golden-lagoon-01.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/golden-lagoon-03.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/golden-lagoon-05.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/golden-lagoon-06.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/golden-lagoon-07.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/golden-lagoon-09.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/golden-lagoon-10.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/golden-lagoon-11.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/golden-lagoon-12.jpg",
+          "w": 1800,
+          "h": 1200
+        }
+      ],
+      "sleepy-blue": [
+        {
+          "src": "/media/property/sleepy-blue-01.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/sleepy-blue-04.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/sleepy-blue-06.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/sleepy-blue-07.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/sleepy-blue-08.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/sleepy-blue-11.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/sleepy-blue-12.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/sleepy-blue-03.jpg",
+          "w": 1200,
+          "h": 1800
+        }
+      ],
+      "nahan-outdoor": [
+        {
+          "src": "/media/property/nahan-outdoor-01.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/nahan-outdoor-02.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/nahan-outdoor-03.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/nahan-outdoor-04.jpg",
+          "w": 1800,
+          "h": 1200
+        }
+      ],
+      "nahan-raanitaal": [
+        {
+          "src": "/media/property/nahan-raanitaal-01.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/nahan-raanitaal-03.jpg",
+          "w": 1800,
+          "h": 1200
+        }
+      ],
+      "nahan-shamsher": [
+        {
+          "src": "/media/property/nahan-shamsher-02.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/nahan-shamsher-03.jpg",
+          "w": 1800,
+          "h": 1200
+        }
+      ],
+      "hamilton-palace": [
+        {
+          "src": "/media/property/hamilton-palace-07.jpg",
+          "w": 1800,
+          "h": 1200
+        }
+      ],
+      "real-estate": [
+        {
+          "src": "/media/property/real-estate-01.jpg",
+          "w": 1800,
+          "h": 1201
+        },
+        {
+          "src": "/media/property/real-estate-02.jpg",
+          "w": 1800,
+          "h": 1201
+        },
+        {
+          "src": "/media/property/real-estate-03.jpg",
+          "w": 1800,
+          "h": 1199
+        },
+        {
+          "src": "/media/property/real-estate-04.jpg",
+          "w": 1800,
+          "h": 1201
+        },
+        {
+          "src": "/media/property/real-estate-05.jpg",
+          "w": 1800,
+          "h": 1201
+        },
+        {
+          "src": "/media/property/real-estate-06.jpg",
+          "w": 1800,
+          "h": 1199
+        },
+        {
+          "src": "/media/property/real-estate-07.jpg",
+          "w": 1800,
+          "h": 1201
+        },
+        {
+          "src": "/media/property/real-estate-09.jpg",
+          "w": 1800,
+          "h": 1201
+        },
+        {
+          "src": "/media/property/real-estate-10.jpg",
+          "w": 1800,
+          "h": 1201
+        },
+        {
+          "src": "/media/property/real-estate-11.jpg",
+          "w": 1800,
+          "h": 1201
+        },
+        {
+          "src": "/media/property/real-estate-12.jpg",
+          "w": 1800,
+          "h": 1199
+        }
+      ]
+    },
+    "corporate": [
+      {
+        "src": "/media/corporate/c01.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/corporate/c02.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/corporate/c03.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/corporate/c04.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/corporate/c05.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/corporate/c06.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/corporate/c07.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/corporate/c08.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/corporate/c09.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/corporate/c10.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/corporate/c11.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/corporate/c12.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/corporate/c13.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/corporate/c14.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/corporate/c15.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/corporate/c16.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/corporate/c17.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/corporate/c18.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      {
+        "src": "/media/corporate/c19.jpg",
+        "w": 1800,
+        "h": 1200
+      }
+    ],
+    "kunal": {
+      "portrait": {
+        "src": "/media/kunal/kunal-portrait.jpg",
+        "w": 1158,
+        "h": 1158
+      },
+      "close": {
+        "src": "/media/kunal/kunal-close.jpg",
+        "w": 1200,
+        "h": 1200
+      },
+      "full": {
+        "src": "/media/kunal/kunal-full.jpg",
+        "w": 701,
+        "h": 1210
+      },
+      "gallery": [
+        {
+          "src": "/media/kunal/kunal-sea.jpg",
+          "w": 787,
+          "h": 1400
+        },
+        {
+          "src": "/media/kunal/kunal-wood-1.jpg",
+          "w": 811,
+          "h": 1400
+        },
+        {
+          "src": "/media/kunal/kunal-wood-2.jpg",
+          "w": 1050,
+          "h": 1400
+        }
+      ]
+    },
+    "posters": {
+      "10g7bjMfj1lK8wAv7OV6A7ExAwBcAr7P8": {
+        "src": "/media/films/10g7bjMfj1.jpg",
+        "w": 1400,
+        "h": 788,
+        "title": "1 Story.mp4"
+      },
+      "1i2uP12UfFUKzpFUJCqNhcuuZ4YRyJIBV": {
+        "src": "/media/films/1i2uP12UfF.jpg",
+        "w": 1278,
+        "h": 720,
+        "title": "Ivory Wedding Reel.mp4"
+      },
+      "1E9QKXtVwx0QsTOKRA9vRFwNKKB9UUNXx": {
+        "src": "/media/films/1E9QKXtVwx.jpg",
+        "w": 1400,
+        "h": 790,
+        "title": "Lakhan Neetu Feb -(1080p).mp4"
+      },
+      "1s01wm6Vd4Idt4sz-D4cc4CHxt-uatVwd": {
+        "src": "/media/films/1s01wm6Vd4.jpg",
+        "w": 1400,
+        "h": 789,
+        "title": "Najuka Mohit-(1080p).mp4"
+      },
+      "1dIro7TpRscudG1PrzGBROkuz9pXsz0ry": {
+        "src": "/media/films/1dIro7TpRs.jpg",
+        "w": 1400,
+        "h": 788,
+        "title": "Thomas Mandeep TBT -(1080p).mp4"
+      },
+      "14PZCtnJ9rFYSN60pApjgsfi8CgQ_dpTd": {
+        "src": "/media/films/14PZCtnJ9r.jpg",
+        "w": 787,
+        "h": 1400,
+        "title": "1 amiras new-.mp4"
+      },
+      "17yE6shHlim-0m7ymHCi_TpcOtjk2Z9Gk": {
+        "src": "/media/films/17yE6shHli.jpg",
+        "w": 787,
+        "h": 1400,
+        "title": "8c cafe.mp4"
+      },
+      "1E_73QmuseJCmMYj3JpCBrpLDR_rkoXT3": {
+        "src": "/media/films/1E_73Qmuse.jpg",
+        "w": 787,
+        "h": 1400,
+        "title": "Bindi yoga retreat mp4"
+      },
+      "1CH_2F6lfF97hUm7aowBByKr58Ea_srBf": {
+        "src": "/media/films/1CH_2F6lfF.jpg",
+        "w": 787,
+        "h": 1400,
+        "title": "Hanric Ikshana Nainital.mp4"
+      },
+      "1QHIfP2PRempgCgCoafq0531b-2RlhmpQ": {
+        "src": "/media/films/1QHIfP2PRe.jpg",
+        "w": 787,
+        "h": 1400,
+        "title": "Lakme.mp4"
+      },
+      "1vbjcPjo-TARgVT2NHDU3ZT4AKADUzY6k": {
+        "src": "/media/films/1vbjcPjo-T.jpg",
+        "w": 787,
+        "h": 1400,
+        "title": "SARISKA Astroport.mp4"
+      },
+      "1p5nhUTo2FfcWfBzWwcnCup8kLxasalOg": {
+        "src": "/media/films/1p5nhUTo2F.jpg",
+        "w": 787,
+        "h": 1400,
+        "title": "Satte reel.mp4"
+      },
+      "1mJh5YOvCIapi_JCJVIy2kbl62jxWEo7J": {
+        "src": "/media/films/1mJh5YOvCI.jpg",
+        "w": 720,
+        "h": 1280,
+        "title": "Seethal group .mp4"
+      },
+      "1KbJttGC1dBSdLwJXxHjfS2WqKPJ9y5wq": {
+        "src": "/media/films/1KbJttGC1d.jpg",
+        "w": 1278,
+        "h": 720,
+        "title": "Wedding Reel.mp4"
+      },
+      "1q158TebMQJk5G_j8pZiQDy-mOPqk9FMv": {
+        "src": "/media/films/1q158TebMQ.jpg",
+        "w": 720,
+        "h": 1280,
+        "title": "𝗧𝗧 𝗟𝗨𝗫𝗨𝗥𝗬 𝗣𝗥𝗘𝗧 𝗔𝗨𝗧𝗨𝗠𝗡-𝗪𝗜𝗡𝗧𝗘𝗥 𝟮𝟬𝟮𝟰Lightweight ensembles that make a statement. Season on season. Explore and Shop the Luxury Pret collection online and in st.mp4"
+      },
+      "1HoJ7ksEhhNBDhHQnhvWpHrP3tyIUC5kM": {
+        "src": "/media/films/1HoJ7ksEhh.jpg",
+        "w": 1400,
+        "h": 788,
+        "title": "Himchal propertyy.mp4"
+      },
+      "1gMG7E6vUWlOdrgStRXRbmk3sY2Dj6JCg": {
+        "src": "/media/films/1gMG7E6vUW.jpg",
+        "w": 1400,
+        "h": 788,
+        "title": "Hyatt Regency Dehradun Resort and Spa - Place For Every Occasion.mp4"
+      },
+      "1i5joCJ616VEFWZEhMatLpMhX99IdzGfQ": {
+        "src": "/media/films/1i5joCJ616.jpg",
+        "w": 1400,
+        "h": 788,
+        "title": "kasauli ads landscape.mp4"
+      },
+      "1uA-CCUgdcXoiMNsAgXwuceS4Hz3aWzw5": {
+        "src": "/media/films/1uA-CCUgdc.jpg",
+        "w": 1400,
+        "h": 788,
+        "title": "Palampur seclude property shoot.mp4"
+      },
+      "1LattIklym_OYDRnM3OZQM2zBVCMLCQsO": {
+        "src": "/media/films/1LattIklym.jpg",
+        "w": 1400,
+        "h": 788,
+        "title": "PRELUDE 2 SECLUDE PALAMPUR.mp4"
+      },
+      "1mXvVLm2NCsC-CqzXH92-amEcx2rGROe5": {
+        "src": "/media/films/1mXvVLm2NC.jpg",
+        "w": 1400,
+        "h": 788,
+        "title": "Seclude Shimla, Taraview ｜ Homestay in Shimla.mp4"
+      }
+    },
+    "video": {
+      "showreel": {
+        "src": "/media/video/showreel.mp4",
+        "poster": "/media/video/showreel-poster.jpg",
+        "w": 1280,
+        "h": 720
+      },
+      "wedding-loop": {
+        "src": "/media/video/wedding-loop.mp4",
+        "poster": "/media/video/wedding-loop-poster.jpg",
+        "w": 1280,
+        "h": 720
+      },
+      "property-loop": {
+        "src": "/media/video/property-loop.mp4",
+        "poster": "/media/video/property-loop-poster.jpg",
+        "w": 1280,
+        "h": 720
+      }
+    }
+  },
+  "studio": {
+    "name": "Odyra Studio",
+    "short": "ODYRA",
+    "tagline": "Cinematic films & photography — weddings, property, brands and events.",
+    "city": "Gurugram, India",
+    "reach": "Delhi-NCR · Pan India · International",
+    "phone": "+91 97706 89657",
+    "phoneRaw": "919770689657",
+    "email": "kunalnagiawork@gmail.com",
+    "instagram": "https://www.instagram.com/kunal_kussu",
+    "linkedin": "https://www.linkedin.com/in/kunalnagia",
+    "linktree": "https://linktr.ee/KUNALNAGIA"
+  },
+  "founder": {
+    "name": "Kunal Nagia",
+    "role": "Founder · Creative Director & Cinematographer",
+    "bio": [
+      "Odyra Studio is led by Kunal Nagia — a cinematographer and creative director with 4+ years of crafting visually compelling content for luxury hotels, lifestyle brands, travel campaigns and weddings.",
+      "He has directed 100+ projects across destination weddings, corporate shoots, fashion campaigns and brand films, collaborated with 50+ creators across India, and worked with hospitality names including ITC, Seclude Hotels and Eight Continents Hotels & Resorts.",
+      "From concept and storyboard to drone work, lighting and the final grade, every frame is built end-to-end in-house."
+    ],
+    "experience": [
+      {
+        "role": "Cinematographer & Content Creator",
+        "org": "Eight Continents Hotels & Resorts",
+        "when": "Oct 2024 — Present",
+        "where": "Gurugram / On-site",
+        "points": [
+          "Leading content creation for a portfolio of luxury properties in India and Zanzibar.",
+          "Cinematic property reels, guest-experience videos and festive campaign films.",
+          "Drone cinematography, short-form social content and branded storytelling."
+        ]
+      },
+      {
+        "role": "Cinematographer & Photographer",
+        "org": "Seclude Hotels Home Style",
+        "when": "Apr 2023 — Sep 2024",
+        "where": "New Delhi / On-site",
+        "points": [
+          "Property showcases and event coverage across boutique hotel locations.",
+          "Camera, lighting, sound and edit for YouTube and Instagram content."
+        ]
+      },
+      {
+        "role": "Creative Director, Photographer & Cinematographer",
+        "org": "Freelance / Agency",
+        "when": "2020 — Present",
+        "where": "Delhi-NCR / Pan India",
+        "points": [
+          "Directed 100+ projects — destination weddings, corporate shoots, fashion campaigns, brand films.",
+          "Luxury lifestyle content with ITC Storii, Ahmedabad.",
+          "50+ creator collaborations on influencer-driven projects and campaigns."
+        ]
+      }
+    ],
+    "skills": [
+      "Cinematography",
+      "Direction",
+      "Drone Filming",
+      "Storyboarding",
+      "Lighting Design",
+      "DaVinci Resolve",
+      "Adobe Premiere Pro",
+      "Adobe Lightroom",
+      "Content Strategy",
+      "Influencer Collaboration"
+    ],
+    "gear": [
+      "RED",
+      "Blackmagic",
+      "Sony FX line",
+      "Canon",
+      "Mirrorless & DSLR",
+      "Drones"
+    ],
+    "education": "B.Com (Computer Application) · PIMR Gwalior · 2019 – 2022 · Grade A+"
+  },
+  "stats": [
+    {
+      "n": 100,
+      "s": "+",
+      "label": "Projects directed"
+    },
+    {
+      "n": 50,
+      "s": "+",
+      "label": "Creators collaborated"
+    },
+    {
+      "n": 4,
+      "s": "+",
+      "label": "Years behind the lens"
+    },
+    {
+      "n": 3,
+      "s": "",
+      "label": "Countries — India, Zanzibar & Scotland"
+    }
+  ],
+  "brands": [
+    "ITC Storii",
+    "Eight Continents Hotels & Resorts",
+    "Seclude Hotels",
+    "Hyatt Regency Dehradun",
+    "Lakmé Fashion Week",
+    "TT Luxury Pret",
+    "Sariska Astroport",
+    "Kili Paul"
+  ],
+  "categories": [
+    {
+      "slug": "weddings",
+      "href": "/weddings",
+      "title": "Weddings",
+      "kicker": "01 — Love stories",
+      "blurb": "Cinematic wedding films and editorial photography — from haldi to pheras to the last dance.",
+      "cover": {
+        "src": "/media/wedding/w08.jpg",
+        "w": 1800,
+        "h": 1200
+      }
+    },
+    {
+      "slug": "property",
+      "href": "/property",
+      "title": "Property & Hospitality",
+      "kicker": "02 — Spaces",
+      "blurb": "HDR interiors, aerials and walkthrough films for hotels, villas, homestays and real estate.",
+      "cover": {
+        "src": "/media/property/sleepy-blue-06.jpg",
+        "w": 1800,
+        "h": 1200
+      }
+    },
+    {
+      "slug": "films",
+      "href": "/films",
+      "title": "Brand Films",
+      "kicker": "03 — Commercial",
+      "blurb": "Campaign films, social reels and music videos for fashion, hospitality and lifestyle brands.",
+      "cover": {
+        "src": "/media/films/1QHIfP2PRe.jpg",
+        "w": 787,
+        "h": 1400,
+        "title": "Lakme.mp4"
+      }
+    },
+    {
+      "slug": "corporate",
+      "href": "/corporate",
+      "title": "Corporate & Events",
+      "kicker": "04 — Events",
+      "blurb": "Conferences, award nights, launches and leadership portraits — documented with a film eye.",
+      "cover": {
+        "src": "/media/corporate/c08.jpg",
+        "w": 1800,
+        "h": 1200
+      }
+    }
+  ],
+  "weddingFilms": [
+    {
+      "id": "1E9QKXtVwx0QsTOKRA9vRFwNKKB9UUNXx",
+      "title": "Lakhan & Neetu",
+      "sub": "Palace wedding film · Rajasthan",
+      "kind": "local",
+      "cover": {
+        "src": "/media/films/1E9QKXtVwx.jpg",
+        "w": 1400,
+        "h": 790,
+        "title": "Lakhan Neetu Feb -(1080p).mp4"
+      },
+      "src": "/media/films/lakhan-neetu.mp4"
+    },
+    {
+      "id": "1s01wm6Vd4Idt4sz-D4cc4CHxt-uatVwd",
+      "title": "Najuka & Mohit",
+      "sub": "Beach-side wedding film",
+      "kind": "local",
+      "cover": {
+        "src": "/media/films/1s01wm6Vd4.jpg",
+        "w": 1400,
+        "h": 789,
+        "title": "Najuka Mohit-(1080p).mp4"
+      },
+      "src": "/media/films/najuka-mohit.mp4"
+    },
+    {
+      "id": "1dIro7TpRscudG1PrzGBROkuz9pXsz0ry",
+      "title": "Thomas & Mandeep",
+      "sub": "Wedding film",
+      "kind": "local",
+      "cover": {
+        "src": "/media/wedding/w19.jpg",
+        "w": 1200,
+        "h": 1800
+      },
+      "src": "/media/films/thomas-mandeep.mp4"
+    },
+    {
+      "id": "1i2uP12UfFUKzpFUJCqNhcuuZ4YRyJIBV",
+      "title": "Ivory",
+      "sub": "Wedding reel",
+      "kind": "local",
+      "cover": {
+        "src": "/media/films/1i2uP12UfF.jpg",
+        "w": 1278,
+        "h": 720,
+        "title": "Ivory Wedding Reel.mp4"
+      },
+      "src": "/media/films/ivory.mp4"
+    },
+    {
+      "id": "1KbJttGC1dBSdLwJXxHjfS2WqKPJ9y5wq",
+      "title": "Wedding Reel",
+      "sub": "Highlights",
+      "kind": "local",
+      "cover": {
+        "src": "/media/wedding/w42.jpg",
+        "w": 1197,
+        "h": 1797
+      },
+      "src": "/media/films/wedding-reel.mp4"
+    }
+  ],
+  "propertyFilms": [
+    {
+      "id": "taychreggan-scotland",
+      "title": "Taychreggan Hotel, Scotland",
+      "sub": "Aerial property film · Scottish Highlands",
+      "kind": "local",
+      "cover": {
+        "src": "/media/films/taychreggan-poster.jpg",
+        "w": 1400,
+        "h": 788
+      },
+      "src": "/media/films/taychreggan-hotel-scotland.mp4"
+    },
+    {
+      "id": "1gMG7E6vUWlOdrgStRXRbmk3sY2Dj6JCg",
+      "title": "Hyatt Regency Dehradun",
+      "sub": "Resort & Spa — venue film",
+      "kind": "local",
+      "cover": {
+        "src": "/media/films/1gMG7E6vUW.jpg",
+        "w": 1400,
+        "h": 788,
+        "title": "Hyatt Regency Dehradun Resort and Spa - Place For Every Occasion.mp4"
+      },
+      "src": "/media/films/hyatt-regency-dehradun.mp4"
+    },
+    {
+      "id": "1uA-CCUgdcXoiMNsAgXwuceS4Hz3aWzw5",
+      "title": "Seclude Palampur",
+      "sub": "Property film",
+      "kind": "local",
+      "cover": {
+        "src": "/media/films/1uA-CCUgdc.jpg",
+        "w": 1400,
+        "h": 788,
+        "title": "Palampur seclude property shoot.mp4"
+      },
+      "src": "/media/films/seclude-palampur.mp4"
+    },
+    {
+      "id": "1LattIklym_OYDRnM3OZQM2zBVCMLCQsO",
+      "title": "Prelude II — Seclude Palampur",
+      "sub": "Brand teaser",
+      "kind": "local",
+      "cover": {
+        "src": "/media/films/1LattIklym.jpg",
+        "w": 1400,
+        "h": 788,
+        "title": "PRELUDE 2 SECLUDE PALAMPUR.mp4"
+      },
+      "src": "/media/films/prelude-ii-seclude-palampur.mp4"
+    },
+    {
+      "id": "1i5joCJ616VEFWZEhMatLpMhX99IdzGfQ",
+      "title": "Seclude Kasauli",
+      "sub": "Ad film · landscape",
+      "kind": "local",
+      "cover": {
+        "src": "/media/films/1i5joCJ616.jpg",
+        "w": 1400,
+        "h": 788,
+        "title": "kasauli ads landscape.mp4"
+      },
+      "src": "/media/films/seclude-kasauli.mp4"
+    },
+    {
+      "id": "1HoJ7ksEhhNBDhHQnhvWpHrP3tyIUC5kM",
+      "title": "Himachal Hillside",
+      "sub": "Aerial property film",
+      "kind": "local",
+      "cover": {
+        "src": "/media/films/1HoJ7ksEhh.jpg",
+        "w": 1400,
+        "h": 788,
+        "title": "Himchal propertyy.mp4"
+      },
+      "src": "/media/films/himachal-hillside.mp4"
+    },
+    {
+      "id": "1mXvVLm2NCsC-CqzXH92-amEcx2rGROe5",
+      "title": "Seclude Shimla — Taraview",
+      "sub": "Homestay film",
+      "kind": "local",
+      "cover": {
+        "src": "/media/property/sleepy-blue-08.jpg",
+        "w": 1800,
+        "h": 1200
+      },
+      "src": "/media/films/seclude-shimla-taraview.mp4"
+    }
+  ],
+  "brandFilms": [
+    {
+      "id": "1QHIfP2PRempgCgCoafq0531b-2RlhmpQ",
+      "title": "Lakmé Fashion Week",
+      "sub": "Runway · Nexa",
+      "kind": "local",
+      "cover": {
+        "src": "/media/films/1QHIfP2PRe.jpg",
+        "w": 787,
+        "h": 1400,
+        "title": "Lakme.mp4"
+      },
+      "vertical": true,
+      "src": "/media/films/lakme-fashion-week.mp4"
+    },
+    {
+      "id": "1q158TebMQJk5G_j8pZiQDy-mOPqk9FMv",
+      "title": "TT Luxury Pret",
+      "sub": "Autumn–Winter 2024",
+      "kind": "local",
+      "cover": {
+        "src": "/media/films/1q158TebMQ.jpg",
+        "w": 720,
+        "h": 1280,
+        "title": "𝗧𝗧 𝗟𝗨𝗫𝗨𝗥𝗬 𝗣𝗥𝗘𝗧 𝗔𝗨𝗧𝗨𝗠𝗡-𝗪𝗜𝗡𝗧𝗘𝗥 𝟮𝟬𝟮𝟰Lightweight ensembles that make a statement. Season on season. Explore and Shop the Luxury Pret collection online and in st.mp4"
+      },
+      "vertical": true,
+      "src": "/media/films/tt-luxury-pret.mp4"
+    },
+    {
+      "id": "1vbjcPjo-TARgVT2NHDU3ZT4AKADUzY6k",
+      "title": "Sariska Astroport",
+      "sub": "Wild meets luxury",
+      "kind": "local",
+      "cover": {
+        "src": "/media/films/1vbjcPjo-T.jpg",
+        "w": 787,
+        "h": 1400,
+        "title": "SARISKA Astroport.mp4"
+      },
+      "vertical": true,
+      "src": "/media/films/sariska-astroport.mp4"
+    },
+    {
+      "id": "14PZCtnJ9rFYSN60pApjgsfi8CgQ_dpTd",
+      "title": "One Amiras, Udaipur",
+      "sub": "Luxury villa reel",
+      "kind": "local",
+      "cover": {
+        "src": "/media/films/14PZCtnJ9r.jpg",
+        "w": 787,
+        "h": 1400,
+        "title": "1 amiras new-.mp4"
+      },
+      "vertical": true,
+      "src": "/media/films/one-amiras-udaipur.mp4"
+    },
+    {
+      "id": "1CH_2F6lfF97hUm7aowBByKr58Ea_srBf",
+      "title": "Hanric Ikshana, Nainital",
+      "sub": "Hotel reel",
+      "kind": "local",
+      "cover": {
+        "src": "/media/films/1CH_2F6lfF.jpg",
+        "w": 787,
+        "h": 1400,
+        "title": "Hanric Ikshana Nainital.mp4"
+      },
+      "vertical": true,
+      "src": "/media/films/hanric-ikshana-nainital.mp4"
+    },
+    {
+      "id": "1E_73QmuseJCmMYj3JpCBrpLDR_rkoXT3",
+      "title": "Bindi Yoga Retreat",
+      "sub": "Wellness reel",
+      "kind": "local",
+      "cover": {
+        "src": "/media/films/1E_73Qmuse.jpg",
+        "w": 787,
+        "h": 1400,
+        "title": "Bindi yoga retreat mp4"
+      },
+      "vertical": true,
+      "src": "/media/films/bindi-yoga-retreat.mp4"
+    },
+    {
+      "id": "17yE6shHlim-0m7ymHCi_TpcOtjk2Z9Gk",
+      "title": "8C Café",
+      "sub": "F&B reel",
+      "kind": "local",
+      "cover": {
+        "src": "/media/films/17yE6shHli.jpg",
+        "w": 787,
+        "h": 1400,
+        "title": "8c cafe.mp4"
+      },
+      "vertical": true,
+      "src": "/media/films/8c-cafe.mp4"
+    },
+    {
+      "id": "1p5nhUTo2FfcWfBzWwcnCup8kLxasalOg",
+      "title": "Satte — 32 Years",
+      "sub": "Brand anniversary reel",
+      "kind": "local",
+      "cover": {
+        "src": "/media/films/1p5nhUTo2F.jpg",
+        "w": 787,
+        "h": 1400,
+        "title": "Satte reel.mp4"
+      },
+      "vertical": true,
+      "src": "/media/films/satte-32-years.mp4"
+    },
+    {
+      "id": "1mJh5YOvCIapi_JCJVIy2kbl62jxWEo7J",
+      "title": "Seethal Group",
+      "sub": "Corporate brand reel",
+      "kind": "local",
+      "cover": {
+        "src": "/media/films/1mJh5YOvCI.jpg",
+        "w": 720,
+        "h": 1280,
+        "title": "Seethal group .mp4"
+      },
+      "vertical": true,
+      "src": "/media/films/seethal-group.mp4"
+    }
+  ],
+  "musicVideo": {
+    "id": "irw-VWfudE0",
+    "title": "Kili Paul × Akil The Brain — Aja Aja",
+    "sub": "Official music video",
+    "kind": "youtube",
+    "cover": {
+      "src": "https://i.ytimg.com/vi/irw-VWfudE0/maxresdefault.jpg",
+      "w": 1280,
+      "h": 720
+    }
+  },
+  "propertyProjects": [
+    {
+      "key": "sleepy-blue",
+      "name": "Sleepy Blue",
+      "type": "Boutique stay · Hills",
+      "note": "A-frame suites, valley views and a bold blue-and-mustard palette — shot with HDR bracketing to hold both the interiors and the windows.",
+      "images": [
+        {
+          "src": "/media/property/sleepy-blue-01.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/sleepy-blue-04.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/sleepy-blue-06.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/sleepy-blue-07.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/sleepy-blue-08.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/sleepy-blue-11.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/sleepy-blue-12.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/sleepy-blue-03.jpg",
+          "w": 1200,
+          "h": 1800
+        }
+      ]
+    },
+    {
+      "key": "golden-lagoon",
+      "name": "Golden Lagoon",
+      "type": "Hotel · Rooms, rooftop & dining",
+      "note": "Full property coverage — room categories, rooftop terrace, lobby and the restaurant — for OTA listings and the brand website.",
+      "images": [
+        {
+          "src": "/media/property/golden-lagoon-01.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/golden-lagoon-03.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/golden-lagoon-05.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/golden-lagoon-06.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/golden-lagoon-07.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/golden-lagoon-09.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/golden-lagoon-10.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/golden-lagoon-11.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/golden-lagoon-12.jpg",
+          "w": 1800,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "key": "nahan",
+      "name": "Nahan Heritage",
+      "type": "Heritage property · Himachal",
+      "note": "Colonial verandahs, a garden gazebo at golden hour and suite-by-suite coverage of a heritage stay.",
+      "images": [
+        {
+          "src": "/media/property/nahan-outdoor-01.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/nahan-outdoor-02.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/nahan-outdoor-03.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/nahan-outdoor-04.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/nahan-raanitaal-01.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/nahan-raanitaal-03.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/nahan-shamsher-02.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/nahan-shamsher-03.jpg",
+          "w": 1800,
+          "h": 1200
+        },
+        {
+          "src": "/media/property/hamilton-palace-07.jpg",
+          "w": 1800,
+          "h": 1200
+        }
+      ]
+    },
+    {
+      "key": "real-estate",
+      "name": "Residential Communities",
+      "type": "Real estate · Exteriors & interiors",
+      "note": "Pool decks, amenities and show-units edited to listing standard — bright, true-to-life and consistent across a full set.",
+      "images": [
+        {
+          "src": "/media/property/real-estate-01.jpg",
+          "w": 1800,
+          "h": 1201
+        },
+        {
+          "src": "/media/property/real-estate-02.jpg",
+          "w": 1800,
+          "h": 1201
+        },
+        {
+          "src": "/media/property/real-estate-03.jpg",
+          "w": 1800,
+          "h": 1199
+        },
+        {
+          "src": "/media/property/real-estate-04.jpg",
+          "w": 1800,
+          "h": 1201
+        },
+        {
+          "src": "/media/property/real-estate-05.jpg",
+          "w": 1800,
+          "h": 1201
+        },
+        {
+          "src": "/media/property/real-estate-06.jpg",
+          "w": 1800,
+          "h": 1199
+        },
+        {
+          "src": "/media/property/real-estate-07.jpg",
+          "w": 1800,
+          "h": 1201
+        },
+        {
+          "src": "/media/property/real-estate-09.jpg",
+          "w": 1800,
+          "h": 1201
+        },
+        {
+          "src": "/media/property/real-estate-10.jpg",
+          "w": 1800,
+          "h": 1201
+        },
+        {
+          "src": "/media/property/real-estate-11.jpg",
+          "w": 1800,
+          "h": 1201
+        },
+        {
+          "src": "/media/property/real-estate-12.jpg",
+          "w": 1800,
+          "h": 1199
+        }
+      ]
+    }
+  ],
+  "nav": [
+    {
+      "href": "/weddings",
+      "label": "Weddings"
+    },
+    {
+      "href": "/property",
+      "label": "Property"
+    },
+    {
+      "href": "/films",
+      "label": "Brand Films"
+    },
+    {
+      "href": "/corporate",
+      "label": "Corporate"
+    },
+    {
+      "href": "/about",
+      "label": "About"
+    }
+  ]
+}
