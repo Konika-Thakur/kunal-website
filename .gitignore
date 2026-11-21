@@ -1,0 +1,19 @@
+node_modules
+.next
+out
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+.env*.local
+
+.vercel
+.env*
+
+# raw source media / personal files (not used by site; some exceed GitHub 100MB limit)
+/*.HEIC
+/*.MP4
+/*.mp4
+/*.jpeg
+/*.JPG
+/*.pdf
+
